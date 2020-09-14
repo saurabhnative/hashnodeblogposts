@@ -18,7 +18,11 @@ For VSCode the feature reference can be found here: [Side by Side Editing](https
 ![SideBySideEditing.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1599830517664/4TjMVS-XS.png)
 - **Print debug values**   
 Many of us have the habit of log statements like console.log() or print() for debugging quite often. It's useful to know the code snippet for log statement or add external plugins/extensions for adding custom log statements.   
-For VSCode shorthand is `log`+Tab for console.log or we can use an extension like Turbo Console Log to print custom log statements with a keyboard shortcut.    
+For VSCode shorthand is `log`+Tab for console.log or we can use an extension like Turbo Console Log to print custom log statements with a keyboard shortcut. 
+- **Element Shortcuts**  
+We can use shortcut codes to write HTML tags in VSCode. For example, typing 'button' + Tab key will add button tag or typing '.class-name' + Tab key will add div with the class name.
+Check this tweet's video to see it in action:
+%[https://twitter.com/i/status/1305444421551321090]
 
 That's it for today's short tutorial. Happy Weekend😁
 

@@ -1,4 +1,4 @@
-## Lessons I learnt while learning UI design as a frontend developer
+## Things I learnt while learning UI design as a frontend developer
 
 Every year I see frontend developer roadmap videos released which are filled with tons of latest tools, frameworks and libraries to cover, in order to become a successful frontend developer. It's important to learn them but there is one thing which I  see missing in a lot of these articles which is UI design and let me tell you why with this 3 simple reasons:
 

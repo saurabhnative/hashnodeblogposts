@@ -17,6 +17,6 @@ Contributions can be made in three ways:
 
 We start from building a college ID Card generator to building our own developer portfolio in the end.  
 
-You can find the list of all 15 project here:  [Github Link](https://github.com/codeclassifiers/create_react_projects) 
+You can find the list of all 15 projects here:  [Github Link](https://github.com/codeclassifiers/create_react_projects) 
  
 Now I can totally understand that picking up some of the concepts while working on problem statements might seem like a daunting task. So if you have any kind of doubts or questions, reach out to me on [LinkedIn](https://www.linkedin.com/in/saurabh-mhatre) or [Twitter](https://twitter.com/saurabhnative). 

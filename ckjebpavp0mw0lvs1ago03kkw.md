@@ -142,6 +142,8 @@ If you prefer to learn from video tutorials, you can find the complete process o
 
 %[https://www.youtube.com/watch?v=92DepoFu-AY&list=PLZ1FmiaTE30VjaUOFodmrMVmilAcEvvRV]
 
+The complete source code for this project can be found here: [Github](https://github.com/codeclassifiers/newyeargreeting)
+
 That concludes our short tutorial on building new year greeting using CSS animation.
 Have fun and happy new year🥳 
 

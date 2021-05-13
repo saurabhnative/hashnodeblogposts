@@ -1,7 +1,7 @@
 ## How to use date input with react hooks
 
 Hello curious stranger on the internet, today we are going to learn how to use HTML5 date input in react hooks with 5 lines of code or more than that.
-The reason I am writing this post in because I could not find any solution to this on stackoverflow(which has class based solutions till now) or other articles(which are using npms rather than solving this directly using date input).
+The reason I am writing this post in because I could not find any solution to this on StackOverflow(which has class-based solutions till now) or other articles(which are using npms rather than solving this directly using date input).
 
 So for folk who don't know about date input feel free to look into this element on W3Schools:-
 https://www.w3schools.com/tags/att_input_type_date.asp
@@ -18,8 +18,8 @@ export default function App() {
   );
 }
 ```
-This will show a date input on a page and we can select a date from calendar dropdown as well.
-Next task is to store the selected date in a state variable. So let's declare a state variable using `useState` hook first:-
+This will show a date input on a page and we can select a date from the calendar dropdown as well.
+The next task is to store the selected date in a state variable. So let's declare a state variable using the `useState` hook first:-
 
 ```
 import { useState } from "react";
@@ -35,7 +35,7 @@ export default function App() {
 }
 ```
 
-Next we can add onChange handler in date input to get the date selected by the user and update our date variable as well:-
+Next, we can add onChange handler in date input to get the date selected by the user and update our date variable as well:-
 
 ```
 import { useState } from "react";
@@ -81,7 +81,7 @@ export default function App() {
   );
 }
 ```
-By default the date returned by date picker is in YYYY-MM-DD format. Most of the times when we are passing date to backend server, we convert it to time in milliseconds/unix epoch format. You can find more information about Unix epoch here:-
+By default, the date returned by the date picker is in YYYY-MM-DD format. Most of the times when we are passing the date to the backend server, we convert it to time in milliseconds/Unix epoch format. You can find more information about Unix epoch here:-
 https://www.epochconverter.com/
 
 So let's convert out date value to epoch as well:-
@@ -120,7 +120,7 @@ You can see this code in action in the codesandbox created below:-
 %[https://codesandbox.io/s/date-input-react-hooks-ym9qs?file=/src/App.js&fontsize=14&hidenavigation=1&theme=dark]
 
 Bonus Tip:
-In case you need the date value in local date format you can use the the `toLocaleString()` method from Date methods as well. More information on this method can be found here:-   
+In case you need the date value in local date format you can use the `toLocaleString()` method from Date methods as well. More information on this method can be found here:-   
 https://www.w3schools.com/jsref/jsref_tolocalestring.asp
 
 If you found this article useful, then feel free to upvote it and consider becoming a sponsor for motivating me to write new posts here for you all.

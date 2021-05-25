@@ -16,7 +16,7 @@ In an interpreted language, the program is not compiled and directly translated 
 
 For example, let's say you are trying to make Dalgona coffee at home. But the recipe shared by your friend is in ancient Latin. Since you don't know Latin, you can make coffee from the recipe using either of the two below approaches.
  
-1. You will get the recipe translated into English using a translation service or program. Then you can use the English version of the recipe directly to make Dalgona coffee at home. This is similar to how you would run a program through a compilation service to get a source code that can be used directly by a machine to run a specific task.
+1. You will get the recipe translated into English using a translation service or program. Then you can use the English version of the recipe directly to make Dalgona coffee at home. This is similar to how you would run a program through a compilation service to get a compiled code that can be used directly by a machine to run a specific task.
 
 2. The Second approach could be to search for a friend who knows ancient Latin, get him/her over to your house and ask him/her to translate the recipe line by line while you make the coffee. This is similar to how we use an interpreter to go through the program code line by line while executing a specific task. 
 

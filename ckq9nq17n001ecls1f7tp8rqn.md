@@ -86,6 +86,10 @@ After we've finished any kind of computer programming problem, we usually go for
 
 Now, there might be some better solutions that might reduce the time complexity but I have covered the simplest possible solution that I could think of. As we learn more data structures and algorithms in future, we will try to come up with better solutions.
 
+You can view video explanation for the problem below:-
+
+%[https://youtu.be/zKcNYIsrq4s]
+
 If you found this tutorial useful, hit the like button, follow my blog, and if there is anyone you know who will benefit from such articles in data structures in JavaScript or preparing for interviews, please share it with them as well. Goodbye and have a nice day.
 
 ---------------------------------------------------------------------------------------------------

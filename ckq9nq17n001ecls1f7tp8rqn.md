@@ -1,4 +1,4 @@
-## Leetcode Array Problem Solutions-part 4 (remove Duplicates From Sorted Array)
+## Leetcode Array Problem Solutions-part 4 (Remove Duplicates From Sorted Array)
 
 In today's article, we are going to solve another leetcode problem and the statement for today's problem is to remove duplicate from a sorted array.
 Link to the problem:-

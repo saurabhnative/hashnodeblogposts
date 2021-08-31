@@ -165,6 +165,10 @@ Users can start from any section on the left and end at any section. However, I 
 ### 3. Responsiveness
 To handle responsiveness, Tailwind CSS helped a lot. The custom classes allowed to to iterate faster and build responsive design quicker as well.
 
+## Competitor Analysis
+There are a lot of online markdown editors available like  [Dillinger](https://dillinger.io/). However, none of them have a form-driven interface specifically designed for creating Github READMEs. Since [README gen](https://readme-gen.vercel.app) also supports markdown mode it can be used as an online markdown editor as well. But the ease of use in creating README files faster with form-based inputs sets it apart from existing products. 
+I made the README gen's 10 step process after going through a lot of awesome Github projects and understanding what sets them apart from other ones. And if anyone wants to customise the data in form-driven steps, they can easily do it by switching to markdown mode. So this 10 step process is a unique selling point(USP) feature in this project which makes it different and useful for every open-source contributor.
+
 ## Licensing and Contribution
 This project is licensed under  [MIT](https://github.com/saurabhnative/create-frontend-readme/blob/main/LICENSE) 
 

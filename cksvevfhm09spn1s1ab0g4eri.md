@@ -46,7 +46,7 @@ Example:-
 
 ![Screenshot 2021-08-28 at 11.56.36 AM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1630132001913/Xys47zoBR.png)
 
-### Section 8: Technolgies used(Optional)
+### Section 8: Technologies used(Optional)
 In this section, we can list down technologies or modules which we used while building the project to help others understand the creation components in a better manner.   
 Example:-
 

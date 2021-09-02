@@ -20,6 +20,8 @@ If you have any suggestions feel free to mention them in the comments or reach o
 
  [**Github Repo**](https://github.com/saurabhnative/create-frontend-readme)  |  [**Live Demo**](https://readme-gen.vercel.app/) 
 
+<a href="https://www.producthunt.com/posts/readme-gen?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-readme-gen" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=310675&theme=dark" alt="README Gen - Most advanced ReadMe generator for your GitHub projects | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 ## Let's talk about some amazing features
 
 - ### Easy to use collapsible menus for all 10 essential sections
@@ -177,12 +179,11 @@ You can contribute to this project using standard [Github flow](https://guides.g
 I have also enabled the  [discussions](https://github.com/saurabhnative/create-frontend-readme/discussions)  section in case you would like to share your own ideas or discuss any topics related to this project code.
 
 ## Sample README generated using this project
-You can find a sample README generated using this project here:  [Stories Feed Github](https://github.com/saurabhnative/storiesfeedapp
+You can find a sample README generated using this project here:  [Stories Feed Github](https://github.com/saurabhnative/storiesfeedapp)
 
 Short Preview:
 
 ![Screenshot 2021-08-29 at 1.52.42 PM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1630225370862/zxYVyKBPr.png)
-
 
 Feel free to connect with me on social handles:
 -  [**Twitter**](https://twitter.com/saurabhnative) 

@@ -97,7 +97,7 @@ An optimistic attitude and perseverance go a long way in building a personal bra
 
 Hope these takeaway points help you in your journey to grow as well.
 
-This article was written as a response to a prompt from Hashnode Coding Bootcamp:-
+This article was written as a response to a prompt from Hashnode Coding Bootcamp:-     
 Prompt: Share your path to becoming a writer/becoming interested in writing. What motivates/motivated you to become a writer
 
 If you found this article interesting then upvote the article and follow me for more such articles in future.   

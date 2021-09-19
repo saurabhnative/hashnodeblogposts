@@ -16,6 +16,9 @@ The rules of the series are as follows:-
 
 - The conjecture is that, no matter what value of n, the sequence will always reach 1.   
 
+
+![Example.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1632038198074/kKasVp3b_.png)
+
 Although the explanation is surprisingly easy to follow from the Youtube video above, no one has been able to prove the series yet.
 
 ## Visualisation using react.js

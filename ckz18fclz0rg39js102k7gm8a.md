@@ -1,4 +1,4 @@
-## Bringing back informal communication in the remote work
+## Bringing back informal communication in remote work
 
 ## Overview
 Hell everyone,  

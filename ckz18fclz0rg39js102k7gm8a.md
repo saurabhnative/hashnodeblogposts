@@ -1,7 +1,7 @@
 ## Bringing back informal communication in remote work
 
 ## Overview
-Hell everyone,  
+Hello everyone,  
 Since the past few years, most of the software engineers and engineering teams across the world have started working from home and are slowly adjusting to remote working culture. Remote engineering has brought in its own set of advantages and challenges as well. Even companies across the world are trying to adapt to these new changes. 
 One thing which we all surely might miss is having casual conversations with colleagues, discussing random side-project ideas with them or hobbies and even favourite web series/movies we watched last weekend.
 

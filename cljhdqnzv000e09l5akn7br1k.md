@@ -4,7 +4,7 @@ datePublished: Thu Jun 29 2023 16:48:34 GMT+0000 (Coordinated Universal Time)
 cuid: cljhdqnzv000e09l5akn7br1k
 slug: eventwhiz-an-all-in-one-event-management-platform
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1687799209243/1dfcb964-6b04-4c9f-8364-a139337662e1.jpeg
-tags: hackathon, express, nextjs, 1password, buildwith1password
+tags: 1password, buildwith1password
 
 ---
 

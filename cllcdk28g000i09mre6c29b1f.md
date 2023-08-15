@@ -3,7 +3,7 @@ title: "Subatomica: A definitive guide to subatomic particles"
 datePublished: Tue Aug 15 2023 14:04:00 GMT+0000 (Coordinated Universal Time)
 cuid: cllcdk28g000i09mre6c29b1f
 slug: subatomica-a-definitive-guide-to-subatomic-particles
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1692108189143/98c87959-389a-465d-8957-97d7b9df8b3a.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1692109383221/e8a5745d-f571-45d6-806a-1b0f1d83a8fa.jpeg
 tags: grafbasehackathon, grafbase
 
 ---
